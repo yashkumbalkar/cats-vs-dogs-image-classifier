@@ -17,6 +17,13 @@ The CNN architecture consists of:
 - Fully connected layers for classification.
 - Sigmoid activation at the output layer for binary classification.
 
+## **Tools Used**
+- `TensorFlow` (for model building and training).
+- `Keras` (for high-level neural network API).
+- `NumPy` (for numerical operations).
+- `Matplotlib` (for visualization).
+- `OpenCV` (for image preprocessing).
+
 ## **Result**
 
 The model achieves an accuracy of approximately 82.86% on the test set.
